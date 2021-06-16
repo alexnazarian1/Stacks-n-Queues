@@ -22,5 +22,5 @@ Q: Now let's say that you wanted to create a recipe app. Your design calls for a
 
 A: Queue. The earliest recipes, or the first ones added, should be removed as new recipes are added. That's a little FIFO for you. Bring it home to your mother so she can hang it on the fridge.
 
-[Take a look to learn more](https://everythingcomputerscience.com/discrete_mathematics/Stacks_and_Queues.html)
+[Take a look to learn more](https://everythingcomputerscience.com/discrete_mathematics/Stacks_and_Queues.html)<br/>
 [This video is great for you visual learners](https://www.youtube.com/watch?v=wjI1WNcIntg)
