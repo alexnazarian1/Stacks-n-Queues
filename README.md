@@ -3,6 +3,7 @@
 ## Intro
 
 Stacks and queues are two data structures that access and handle data in similar, but distinctly different, ways. Queues act as a line. The first thing, or pieces of data, to enter the queue, are the first to be executed, or exit the line (first in, first out, or "FIFO"). Stacks on the other hand, are a pile. Whatever has been placed on top, must be the first to be removed, or executed, before the rest of the stack can be executed (last in, first out, or "LIFO"). Be sure not to 'stack' the pile too high, or the whole thing could topple. THIS IS STACK OVERFLOW! GET IT!? DO YOU GET IT!?!?!?!?!?!? IT'S A JOKE, YOU FOOLS!
+![](https://4cawmi2va33i3w6dek1d7y1m-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/Computer-science-fundamentals_6.1.png)
 
 ## Examples
 
