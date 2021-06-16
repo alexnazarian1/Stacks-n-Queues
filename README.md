@@ -6,7 +6,7 @@ Stacks and queues are two data structures that access and handle data in similar
 
 ## Examples
 
-Imagine you wanted to get a pair of sneakers. There are two different stores that you can get to easily. One store, like most stores, will tell people to stand in the line OR QUEUE and wait to enter. The first in line will be the first to enter the store and be able to make their purchase. Last in, first out The second store on the other hand, is holding a sort of contest. They're challenging anyone who wants a pair of these sneakers to game of king of the hill (OR STACK). Whoever is the last woman standing on top of the hill will be the one selected to be able to make their purchase.
+Imagine you wanted to get a pair of sneakers. There are two different stores that you can get to easily. One store, like most stores, will tell people to stand in the line OR QUEUE and wait to enter. The first in line will be the first to enter the store and be able to make their purchase. Last in, first out. The second store on the other hand, is holding a sort of contest. They're challenging anyone who wants a pair of these sneakers to game of king of the hill (OR STACK). Whoever is the last woman standing on top of the hill will be the one selected to be able to make their purchase.
 
 A more technical/computery example of a queue would be the way that computer processing unit (CPU) scheduling is based on a queue. Tasks are executed in the order in which they were called, while the execution of tasks further down in the queue is put on hold until resources are available.
 
