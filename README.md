@@ -43,15 +43,15 @@ print("After removing an element")
 q.display()
 <br/>
 ## Stack implementation in Python
-# Append an element
+## Append an element
 >>> myStack = []
 >>> myStack.append('a')
 >>> myStack.append('b')
 >>> myStack.append('c')
-# Display the stack
+## Display the stack
 >>> myStack
 ['a', 'b', 'c']
-# Pop an element
+## Pop an element
 >>> myStack.pop()
 'c'
 >>> myStack.pop()
