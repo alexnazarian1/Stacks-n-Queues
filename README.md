@@ -39,7 +39,7 @@ q.enqueue(4)
 q.enqueue(5)
 q.display()
 q.dequeue()
-# print("After removing an element")
+print("After removing an element")
 q.display()
 <br/>
 ## Stack implementation in Python
