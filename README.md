@@ -14,19 +14,19 @@ A more technical/computery example of a queue would be the way that computer pro
 And to round this out with a technical/computery example of a stack; the "back" button on your browser is an excellent one. As you browse, the urls that you visit are saved in a stack. When you navigate with the "forward" or "back" buttons, you're navigating up and down through that stack.
 
 ## Queue implementation in Python
-# Assign Queue to class
+## Assign Queue to class
 class Queue:
     def __init__(self):
         self.queue = []
-# Add an element
+## Add an element
    def enqueue(self, item):
         self.queue.append(item)
-# Remove an element
+## Remove an element
    def dequeue(self):
         if len(self.queue) < 1:
             return None
         return self.queue.pop(0)
-# Display  the queue
+## Display  the queue
    def display(self):
         print(self.queue)
     def size(self):
